@@ -1,1 +1,4 @@
-thay la test
+Đến cả con khỉ cũng hiểu được lệnh Git
+add: Đăng ký thay đổi trong index
+commit: Lưu lại trạng thái của index
+pull: Lấy nội dung của remote repository
