@@ -2,3 +2,4 @@ thay la test
 Đến cả con khỉ cũng hiểu được lệnh Git
 add: Đăng ký thay đổi trong index
 pull: Lấy nội dung của remote repository
+giao diện: Đã sửa lỗi giao diện
