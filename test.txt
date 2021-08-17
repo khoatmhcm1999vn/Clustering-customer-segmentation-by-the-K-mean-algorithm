@@ -4,3 +4,4 @@ commit: Lưu lại trạng thái của index
 pull: Lấy nội dung của remote repository
 addv2
 xóa sản phẩm.
+update sản phẩm.
