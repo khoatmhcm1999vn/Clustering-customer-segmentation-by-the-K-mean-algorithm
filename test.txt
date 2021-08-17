@@ -2,4 +2,4 @@
 add: Đăng ký thay đổi trong index
 commit: Lưu lại trạng thái của index
 pull: Lấy nội dung của remote repository
-giao diện: Đã sửa lỗi giao diện
+giao diện: Đã sửa lỗi giao diện v2
